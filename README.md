@@ -1,26 +1,39 @@
-# Data-Analytics-Portfolio
+# Data Analytics Portfolio
 
+## About Me
 
-Hi, I'm Sinthujah. I’m a Public Health graduate with over two years of experience in AI data quality, annotation, and evaluation. I’m transitioning into data analytics, with a focus on health, safety, and AI-driven insights. My work sits at the intersection of data cleaning, public health, and machine learning evaluation, and I enjoy building projects that turn messy real-world data into clear, actionable insights.
+Hi, I’m Sinthujah, a Public Health graduate with over two years of experience in AI data quality, annotation, and evaluation. I am transitioning into data analytics and developing the technical and analytical skills needed to work across a variety of industries.
 
-I’m currently building a portfolio to showcase my skills in data analysis, data cleaning, dashboards, and SQL. All projects here are created using public datasets or simulated examples. None of my work includes any confidential data from previous employers.
+My experience lies at the intersection of data quality, research, and machine learning evaluation. I enjoy working with messy, real-world data and transforming it into clear, meaningful, and actionable insights.
 
-What I’m working on now:
-• A data cleaning and exploratory analysis project using a public health dataset
-• A health analytics dashboard in Power BI
-• A SQL case study using a simulated clinical or public health dataset
-• A text-cleaning and model-evaluation mini project inspired by my AI data quality experience
+This portfolio showcases my skills in data analysis, data cleaning, exploratory data analysis, dashboard development, and SQL. All projects use public datasets or simulated data and do not contain confidential information from previous employers.
 
-Skills I use:
-Python (pandas, numpy, matplotlib)
-SQL
-Excel and Google Sheets
-Power BI and Tableau
-Data cleaning, quality analysis, documentation, and evaluation
-Public health data interpretation and reporting
+## Current Projects
 
-What I'm looking for:
-Opportunities to grow into data analytics roles, especially within public health, healthcare, AI, or any mission-driven, data-informed environment. I’m building this portfolio as a self-taught analyst to demonstrate the foundations of analysis, interpretation, and technical workflow design.
+* Data cleaning and exploratory data analysis using Python
+* Interactive dashboard developed in Power BI
+* SQL case study using a simulated business dataset
+* Text-cleaning and model-evaluation project inspired by my AI data quality experience
 
-Feel free to explore my projects and follow along as I develop new ones.
-You can reach me through LinkedIn or email sinthujah.gunas@gmail.com
+## Technical Skills
+
+* **Programming:** Python, pandas, NumPy, Matplotlib
+* **Databases:** SQL
+* **Data Visualization:** Power BI and Tableau
+* **Spreadsheets:** Microsoft Excel and Google Sheets
+* **Analytics:** Data cleaning, exploratory data analysis, data quality assessment, documentation, and reporting
+* **Additional Experience:** AI data annotation and model evaluation
+
+## Career Interests
+
+I am interested in data analytics opportunities across a variety of industries. I am especially drawn to roles where I can use data to solve practical problems, identify meaningful patterns, improve decision-making, and communicate findings clearly.
+
+Through this portfolio, I aim to demonstrate my ability to clean and analyze data, develop visualizations, communicate insights, and create organized analytical workflows.
+
+## Contact
+
+Feel free to explore my projects and follow my progress as I continue building this portfolio.
+
+* **Email:** [sinthujah.gunas@gmail.com](mailto:sinthujah.gunas@gmail.com)
+* **LinkedIn:** Add your LinkedIn profile link here
+
